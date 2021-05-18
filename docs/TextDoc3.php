@@ -1,21 +1,4 @@
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
-World World World
+print("World")
 
 
 Branch Master
